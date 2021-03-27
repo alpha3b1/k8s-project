@@ -1,0 +1,4 @@
+isaac:project-ml-microservice-kubernetes/ $ kubectl port-forward ml-project 8000:80                                                                                                                                                                                            [10:33:15]
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000

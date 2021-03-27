@@ -1,0 +1,8 @@
+version: '3.3'
+
+services:
+  web:
+    image: alpha3b1/ml_project
+    ports:
+     - "8000:80"
+
